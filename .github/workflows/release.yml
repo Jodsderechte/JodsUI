@@ -9,8 +9,6 @@ on:
   push:
     tags:
       - "*"
-      - "!**-alpha**"
-      - "!**-beta**"
 
 # a workflow is built up as jobs, and within these jobs are steps
 jobs:
@@ -21,7 +19,7 @@ jobs:
 
     # we can run our steps on pretty much anything, but the "ubuntu-latest" image is a safe bet
     runs-on: ubuntu-latest
-    if: github.repository == 'Jods-GH/DungeonAuraTools'
+    if: github.repository == 'Jodsderechte/JodsUI'
 
     # specify the environment variables used by the packager, matching the secrets from the project on GitHub
     env:
