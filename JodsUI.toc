@@ -1,0 +1,34 @@
+## Interface: 100207
+## Author: Jods
+## Version: @project-version@
+## Title: |cff1784d1JodsUI|r |cff4beb2c Installer|r
+## Notes: Contains layouts from JodsUI
+## RequiredDeps: ElvUI
+## OptionalDeps: WeakAuras, Plater, Details
+## DefaultState: enabled
+## X-Curse-Project-ID: 1081715
+## X-Wago-ID: aNDmL26o
+
+#Libs
+embeds.xml
+
+# Locales
+Locales\enUS.lua
+Locales\deDE.lua
+Locales\esES.lua
+Locales\itIT.lua
+Locales\frFR.lua
+Locales\esMX.lua
+Locales\koKR.lua
+Locales\ptBR.lua
+Locales\ruRU.lua
+Locales\zhCN.lua
+Locales\zhTW.lua
+Locales\Locales.lua
+
+#main
+
+Data/DetailsData.lua
+Data/PlaterData.lua
+Data/WeakAuraData.lua
+ElvUiInstaller.lua
