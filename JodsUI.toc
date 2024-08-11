@@ -1,4 +1,4 @@
-## Interface: 100207
+## Interface: 110002
 ## Author: Jods
 ## Version: @project-version@
 ## Title: |cff1784d1JodsUI|r |cff4beb2c Installer|r
