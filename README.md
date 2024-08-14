@@ -10,6 +10,7 @@ DOWNLOAD THESE ADDONS FIRST BEFORE RUNNING THE INSTALLER:
 -  Plater
 -  WeakAuras
 -  CustomNames
+-  CustomNames_ElvUi
 
 Will give you the main Profiles you need to get a profile close to what i use. You can find the other Addons on my [Webpage](https://jods-gh.github.io/wowInterface.html). When logging into the game if you have ElvUi installed it will run automatically. Otherwise you can run it manually from the ElvUi's plugin page.
 
