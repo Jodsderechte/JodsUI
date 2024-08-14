@@ -4,7 +4,7 @@
 ## Title: |cff1784d1JodsUI|r |cff4beb2c Installer|r
 ## Notes: Contains layouts from JodsUI
 ## RequiredDeps: ElvUI
-## OptionalDeps: WeakAuras, Plater, Details
+## OptionalDeps: WeakAuras, Plater, Details, CustomNames, CustomNames_ElvUi
 ## DefaultState: enabled
 ## X-Curse-Project-ID: 1081715
 ## X-Wago-ID: aNDmL26o

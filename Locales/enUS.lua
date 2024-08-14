@@ -26,7 +26,8 @@ LocalisationData["Finalize"] = "Please click the button below in order to finali
 LocalisationData["GeneralWeakAuras"] = "General WeakAuras"
 LocalisationData["InstallationComplete"] = "Installation Complete"
 LocalisationData["InstallationGuideDesc"] = "The installation guide should pop up automatically after you have completed the ElvUI installation. If you wish to re-run the installation process for this layout then please click the button below."
---[[
+LocalisationData["CustomNamesMissing"] = "CustomNames is not installed. Please make sure to install this as otherwise you won't be happy"
+    --[[
 LocalisationData[""] = ""
 LocalisationData[""] = ""
 ]]
