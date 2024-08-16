@@ -654,7 +654,7 @@ function mod:Initialize()
 	if E.private.install_complete and E.db[MyPluginName].install_version == nil then
 		E:GetModule("PluginInstaller"):Queue(InstallerData)
 	end
-	if not CustomNames then
+	if C_AddOns.IsAddOnLoaded("CustomNames") then
 		print(JodsUI.getLocalisation("CustomNamesMissing"))
 	end
 	-- Insert our options table when ElvUI config is loaded
